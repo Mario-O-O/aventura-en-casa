@@ -1,0 +1,19 @@
+
+/* ESTILOS SLIDER HM SOLUCIONES -------------------------------- */
+.hm_slide_cont_img {
+    background: #efefef;
+}
+
+.myProyect, .ejmplo_avion, .ejmplo_cicla, .ejmplo_triciclo {display:none}
+
+.anima_top {
+    position: relative;
+    /* animation: topanimado 0.6s ease-out; */
+}
+
+.opacidad {
+    position: relative;
+    /* animation: opacidad 0.6s; */
+}
+
+/* FIN ESTILOS SLIDER HM SOLUCIONES -------------------------------- */
